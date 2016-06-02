@@ -827,13 +827,33 @@ input {
 .question {
   font-weight: bold;
   padding-bottom: 5px;
+  color: #03C9A9;
 }
 
 .answer {
-  padding-bottom: 15px;
+  padding-bottom: 20px;
 }
 
+/*Ionic Icons*/
+.ion-cash:before {
+  padding-top: 24px;
+}
 
+.ion-umbrella:before {
+  padding-top: 24px;
+}
+
+.ion-ios-shuffle:before {
+  padding-top: 24px;
+}
+
+.ion-ios-stopwatch-outline:before {
+  padding-top: 24px;
+}
+
+.ion-android-favorite-outline:before {
+  padding-top: 24px;
+}
 
 
 
