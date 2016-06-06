@@ -855,6 +855,18 @@ input {
   padding-top: 24px;
 }
 
+.ion-ios-chatboxes-outline:before {
+  padding-top: 24px;
+}
+
+.ion-connection-bars:before {
+  padding-top: 24px;
+}
+
+.ion-ios-locked-outline:before {
+  padding-top: 24px;
+}
+
 
 
 
@@ -884,5 +896,39 @@ input {
   font-feature-settings: 'liga';
 }
 
-.material-icons.md-100 { font-size: 100px; }
+.material-icons.md-100 { 
+  font-size: 100px; 
+}
+
+.material-icons.green100 {
+  color: #03C9A9;
+}
+
+.expectations {
+  font-size: 18px;
+  padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
