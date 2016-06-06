@@ -103,89 +103,27 @@ a:focus {
   margin: 0px;
 }
 
-/* MENU CONFIGURATION*/
-.navbar-default .navbar-brand {
-  color: #03C9A9;
+/* NAVBAR CONFIGURATION*/
+.navbar-inverse {
+  background-color: #222;
+  border-color: #080808;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #fff;
   font-weight: 500px;
 }
 
-.navbar-default {
-  margin-bottom: -53px;
-  border-radius: 0px;
-  background-color: transparent;
-  border-color: transparent;]
-}
-
-.navbar-default .navbar-nav>li>a {
-  color: #03C9A9;
+.navbar-inverse .navbar-nav>li>a {
+  color: #fff;
   font-family: inherit;
 }
 
-.navbar-default .navbar-nav>li>a:hover {
-  color: #03c9a9;
+.navbar-inverse .navbar-nav>li>a:hover {
+  color: #fff;
   font-family: inherit;
 }
 
-/*.menu a {
-  margin-left: 20px;
-  color: #808080;
-  display: block;
-  font-size: 12px;
-  font-weight: 700;
-  line-height: 40px;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-}
-
-.menu a:hover {
-  color: #ffffff;
-}
-
-.menu a:active {
-  color: #ffffff;
-}
-
-.menu a > i {
-  float: left;
-  display: inline-block;
-  vertical-align: middle; 
-  text-align: left;
-  width: 25px;
-  font-size: 16px;
-  line-height: 40px;
-  margin: 25px 2px;
-}
-
-.menu-close {
-  cursor: pointer;
-  display: block;
-  position: absolute;
-  font-size: 14px;
-  color: #808080;
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
-  top: 20px;
-  right: 5px;
-  -webkit-transition: all .1s ease-in-out;
-     -moz-transition: all .1s ease-in-out;
-    -ms-transition: all .1s ease-in-out;
-     -o-transition: all .1s ease-in-out;
-      transition: all .1s ease-in-out;
-}
-
-.menu-close:hover {
-  color: #ffffff;
-  -webkit-transition: all .1s ease-in-out;
-     -moz-transition: all .1s ease-in-out;
-    -ms-transition: all .1s ease-in-out;
-     -o-transition: all .1s ease-in-out;
-      transition: all .1s ease-in-out;
-}*/
-
-/*.nm-logo {
-  padding-top: 100px;
-}*/
 
 /*Info: TERM LIFE vs. WHOLE LIFE*/
 .info {
@@ -897,7 +835,7 @@ input {
 }
 
 .material-icons.md-100 { 
-  font-size: 100px; 
+  font-size: 80px; 
 }
 
 .material-icons.green100 {
